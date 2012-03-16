@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer
+END
+mime_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/mime_types.php
+END
+swift_required.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/swift_required.php
+END
+swift_init.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/swift_init.php
+END
+preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/preferences.php
+END
+swift_required_pear.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/swift_required_pear.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Plugins/Loggers
+END
+ArrayLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Plugins/Loggers/ArrayLogger.php
+END
+EchoLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Plugins/Loggers/EchoLogger.php
+END

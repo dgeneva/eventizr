@@ -78,7 +78,7 @@ $autoload['packages'] = array();
 |	$autoload['libraries'] = array('database', 'session', 'xmlrpc');
 */
 
-$autoload['libraries'] = array();
+$autoload['libraries'] = array('database', 'session','er_session', 'email', 'form_validation', 'table');
 
 
 /*
@@ -90,7 +90,7 @@ $autoload['libraries'] = array();
 |	$autoload['helper'] = array('url', 'file');
 */
 
-$autoload['helper'] = array();
+$autoload['helper'] = array('email', 'html', 'url', 'security', 'form');
 
 
 /*
@@ -135,7 +135,7 @@ $autoload['language'] = array();
 |
 */
 
-$autoload['model'] = array();
+$autoload['model'] = array('ER_Tag', 'ER_Exhibitor_Category', 'ER_Admin', 'ER_Exhibitor', 'ER_Account', 'ER_Fair', 'ER_Country', 'ER_Fair_Subscription', 'ER_Mailing_Subscription', 'ER_Mailing', 'ER_Mailing_Stats');
 
 
 /* End of file autoload.php */

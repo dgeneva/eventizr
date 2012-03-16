@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/KeyCache
+END
+ArrayKeyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/KeyCache/ArrayKeyCache.php
+END
+SimpleKeyCacheInputStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php
+END
+DiskKeyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/KeyCache/DiskKeyCache.php
+END
+NullKeyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/KeyCache/NullKeyCache.php
+END
+DummyKeyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/KeyCache/DummyKeyCache.php
+END
+KeyCacheInputStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/KeyCache/KeyCacheInputStream.php
+END

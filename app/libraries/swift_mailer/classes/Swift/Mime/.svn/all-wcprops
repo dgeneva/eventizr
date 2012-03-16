@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime
+END
+EmbeddedFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/EmbeddedFile.php
+END
+SimpleHeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/SimpleHeaderFactory.php
+END
+EncodingObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/EncodingObserver.php
+END
+SimpleMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/SimpleMessage.php
+END
+SimpleMimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/SimpleMimeEntity.php
+END
+CharsetObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/CharsetObserver.php
+END
+HeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/HeaderSet.php
+END
+ParameterizedHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/ParameterizedHeader.php
+END
+ContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/ContentEncoder.php
+END
+MimePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/MimePart.php
+END
+SimpleHeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/SimpleHeaderSet.php
+END
+HeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/HeaderFactory.php
+END
+MimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/MimeEntity.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/Message.php
+END
+Grammar.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/Grammar.php
+END
+HeaderEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/HeaderEncoder.php
+END
+Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/Header.php
+END
+Attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Mime/Attachment.php
+END

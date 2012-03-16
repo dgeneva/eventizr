@@ -76,3 +76,31 @@ define('SHOW_DEBUG_BACKTRACE', TRUE);
 
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
+
+
+/*
+|--------------------------------------------------------------------------
+| EVENTIZR CONSTANTS
+|--------------------------------------------------------------------------
+*/
+
+// Define Ajax Request
+define('IS_AJAX', isset($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest');
+
+
+/* GLOBAL VIEWS 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+define('NOT_IMPLEMENTED', 	'global/not_implemented');
+define('PUBLIC_WRAPPER', 	'global/public_wrapper');
+define('BOOTSTRAP', 		'global/admin_bootstrap');
+define('ADMIN_WRAPPER', 	'global/admin_wrapper');
+define('FOOTER', 			'global/footer');
+
+/* SMPT CONFIG 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+define('_PROTOCOL', 'smtp');
+define('_SMTP_HOST', 'mail.ephj.ch');
+define('_SMTP_USER', 'noreply@ephj.ch');
+define('_SMTP_PASS', 'n0reply');
+define('_SMTP_POST', '25');
+define('_SMTP_AUTH', true);

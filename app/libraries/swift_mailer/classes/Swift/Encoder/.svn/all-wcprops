@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Encoder
+END
+QpEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Encoder/QpEncoder.php
+END
+Rfc2231Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Encoder/Rfc2231Encoder.php
+END
+Base64Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Encoder/Base64Encoder.php
+END

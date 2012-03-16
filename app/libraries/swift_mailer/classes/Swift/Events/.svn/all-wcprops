@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events
+END
+SendEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/SendEvent.php
+END
+SendListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/SendListener.php
+END
+ResponseEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/ResponseEvent.php
+END
+SimpleEventDispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/SimpleEventDispatcher.php
+END
+TransportChangeEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/TransportChangeEvent.php
+END
+ResponseListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/ResponseListener.php
+END
+TransportChangeListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/TransportChangeListener.php
+END
+EventObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/EventObject.php
+END
+TransportExceptionEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/TransportExceptionEvent.php
+END
+CommandEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/CommandEvent.php
+END
+TransportExceptionListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/TransportExceptionListener.php
+END
+Event.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/Event.php
+END
+CommandListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/CommandListener.php
+END
+EventListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/EventListener.php
+END
+EventDispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Events/EventDispatcher.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Transport/Esmtp/Auth
+END
+PlainAuthenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Transport/Esmtp/Auth/PlainAuthenticator.php
+END
+CramMd5Authenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Transport/Esmtp/Auth/CramMd5Authenticator.php
+END
+LoginAuthenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projects/!svn/ver/227/EVENTIZR/trunk/eventizr/libraries/swift_mailer/classes/Swift/Transport/Esmtp/Auth/LoginAuthenticator.php
+END

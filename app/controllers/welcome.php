@@ -25,7 +25,7 @@
  * @filesource
  */
 
-class Welcome extends CI_Controller {
+class Welcome extends ER_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -45,6 +45,13 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
 		$this->load->view('welcome_message');
+	}
+	
+	public function test()
+	{
+		$data['main_view'] = 'hello world';
+		$this->load->vars($data);
+		$this->load->view(BOOTSTRAP, $data);
 	}
 }
 
