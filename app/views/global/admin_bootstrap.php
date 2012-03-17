@@ -31,10 +31,7 @@
   <body>
 	<?= $this->load->view('global/admin_top_navigation'); ?>
     <div class="container">
-      	<h1>Bootstrap starter template</h1>
-      	<p>Use this document as a way to quick start any new project.<br> All you get is this message and a barebones HTML document.</p>
-		<?php if(isset($main_view)){$this->load->view($main_view);} ?>		
-	
+		<?php if(isset($main_view)){$this->load->view($main_view);} ?>
     </div> <!-- /container -->
 
     <!-- Le javascript
@@ -45,5 +42,8 @@
 	<script src="<?= base_url();?>assets/js/less-1.3.0.min.js"></script>
 	<script src="<?= base_url();?>assets/js/application.js"></script>
 
+<footer>
+	<?php $this->load->view('global/footer','',  FALSE); ?>
+</footer>
   </body>
 </html>

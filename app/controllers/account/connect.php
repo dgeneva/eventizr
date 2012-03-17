@@ -18,11 +18,7 @@ class Connect extends ER_Controller {
 	
 	function index()
 	{
-			if ($this->er_session->logged_in){
-				// $data['title'] = "Account Connect";
-				// 				$data['main_view'] = 'fair/manage/my_fairs';
-				// 				$this->load->vars($data);
-				// 				$this->load->view(ADMIN_WRAPPER);
+			if ($this->er_session->is_logged_in()){
 				redirect('fair/manage/my_fairs');
 			}else{
 				$data['title'] = "Account Connect";
@@ -44,32 +40,29 @@ class Connect extends ER_Controller {
 			
 		}else{
 			//$data['title'] = "Login";
-			$data['main_view'] = 'account/dashboard';
+			$data['main_view'] = 'account/login_form';
 			$this->load->vars($data);
 			$this->load->view(BOOTSTRAP);
 		}	
 	}
-		
 
-	
-	
-	
 	/* Actions in forms
 	=======================================================*/
 	
-	function loginAction()
+	function do_login()
 	{
 		$loggedUser = $this->ER_Account->findUser($this->input->post('username'), $this->input->post('password'));
 		
 		if($loggedUser != null){
 		 	$this->er_session->set_userdata('user_data', $loggedUser);
 			$this->er_session->logged_in = TRUE;
-			redirect('account/profile/dashboard');
+			redirect('account/manage/dashboard');
 		}else{
-			$data['title'] = "Login";
-			$data['main_view'] = 'account/login';
-			$this->load->vars($data);
-			$this->load->view('account/wrapper');
+			redirect('account/connect/login');
+			//$data['title'] = "Login";
+			//$data['main_view'] = 'account/login_form';
+			//$this->load->vars($data);
+			//$this->load->view(BOOTSTRAP);
 		}
 	}
 	
@@ -77,10 +70,19 @@ class Connect extends ER_Controller {
 	{
 		$this->er_session->logged_in = FALSE;
 		$this->er_session->unset_userdata('user_data');
-		$data['title'] = "Logout";
-		$data['main_view'] = 'account/logged_out_success';
+		
+		redirect('account/connect/login');
+	}
+	
+	function recover_password(){
+		$data['title'] = "Recover Password";
+		$data['main_view'] = 'account/recover_password_form';
 		$this->load->vars($data);
-		$this->load->view('account/wrapper');
+		$this->load->view(BOOTSTRAP);
+	}
+	
+	function do_recover_password(){
+		
 	}
 	
 	

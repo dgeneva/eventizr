@@ -13,9 +13,16 @@
 		  <li class="dropdown">
 		    <a href="#"class="dropdown-toggle"data-toggle="dropdown">Account<b class="caret"></b></a>
 		    <ul class="dropdown-menu">
-		      	<li class=""><a href="#">Change Password</a></li>
-		        <li><a href="#about">Account Information</a></li>
-				<li><a data-toggle="modal" href="#myModal" >Login</a></li>
+					<?php
+					if ($this->er_session->logged_in){
+						echo '<li>'.anchor("account/manage/edit_account","My Account").'</li>';
+						echo '<li>'.anchor("account/manage/edit_password","Change Password").'</li>';
+						echo '<li class="divider"></li>';
+						echo '<li>'.anchor("account/connect/logout","Logout").'</li>';
+					}else{
+						echo '<li>'.anchor("account/connect/login","Login").'</li>';
+					}
+					?>
 		    </ul>
 		  </li>
 		
@@ -26,8 +33,9 @@
 		    <a href="#"class="dropdown-toggle"data-toggle="dropdown">Manage<b class="caret"></b></a>
 		    <ul class="dropdown-menu">
 		      	<li class=""><a href="#">Home</a></li>
-		        <li><a href="#about">About</a></li>
-				<li><a data-toggle="modal" href="#myModal" >Login</a></li>
+		        <li class=""><a href="#">Home</a></li>
+				<li class=""><a href="#">Home</a></li>
+				<li class=""><a href="#">Home</a></li>
 		    </ul>
 		  </li>
 			<li class="divider-vertical"></li>
