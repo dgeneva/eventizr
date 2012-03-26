@@ -43,7 +43,7 @@
 	<script src="<?= base_url();?>assets/js/application.js"></script>
 
 <footer>
-	<?php $this->load->view('global/footer','',  FALSE); ?>
+	<?php $this->load->view('global/footer', '',  FALSE); ?>
 </footer>
   </body>
 </html>

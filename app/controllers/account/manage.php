@@ -52,7 +52,7 @@ class Manage extends ER_Controller {
 
 
 	/* ====================================================
-	*  LANDING TOPICS
+	*  LISTS
 	*  ====================================================
 	*/
 
@@ -64,10 +64,9 @@ class Manage extends ER_Controller {
 		$this->load->view(BOOTSTRAP);
 	}
 
-	public function show_fair_subscriptions(){
-			$data['title'] = "Register";
-			$data['sidebar_view'] = 'account/account_sidebar_navigation';
-			$data['main_view'] = 'account/manage/fair_subscriptions_list';
+	public function fair_subscriptions(){
+			$data['title'] = "FAIR SUBSCRIPTIONS";
+			$data['main_view'] = 'account/fair_subscriptions_list';
 			$this->load->vars($data);
 			$this->load->view(ADMIN_WRAPPER);
 	}
